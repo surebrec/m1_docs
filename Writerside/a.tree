@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="a"
+                 name="API"
+                 start-page="starter-topic.md">
+
+    <toc-element topic="starter-topic.md">
+        <toc-element topic="PING.md">
+        </toc-element>
+        <toc-element topic="SERVICE-START.md"/>
+        <toc-element topic="SERVICE-STOP.md"/>
+        <toc-element topic="SERVICE-VER.md"/>
+        <toc-element topic="SERVICE-STATE.md"/>
+        <toc-element topic="DS-CREATE-ENTITY.md"/>
+        <toc-element topic="DS-UPDATE-ENTITY.md"/>
+        <toc-element topic="DS-DELETE-ENTITY.md"/>
+        <toc-element topic="DS-GET-ENTITIES.md"/>
+        <toc-element topic="DS-GET-ENTITY.md"/>
+        <toc-element topic="DS-START-PROVIDERS.md"/>
+        <toc-element topic="DS-STOP-PROVIDERS.md"/>
+        <toc-element topic="DS-CLEAR-ALL-DATA.md"/>
+        <toc-element topic="DS-CLEAR-RAW-DATA.md"/>
+        <toc-element topic="DS-CLEAR-LOGS.md"/>
+        <toc-element topic="DS-CHECK-VALIDATOR-SYNTAX.md"/>
+        <toc-element topic="CS-STOP-ALL.md"/>
+        <toc-element topic="CS-CLEAR-MQ.md"/>
+        <toc-element topic="VS-VALIDATE-DATA.md"/>
+        <toc-element topic="STATE-PING.md"/>
+        <toc-element topic="STATE-MODEL-VARS.md"/>
+        <toc-element topic="GET-VARS.md"/>
+        <toc-element topic="UI-LIVE-DATA.md"/>
+        <toc-element topic="UI-RECENT-LOGS.md"/>
+        <toc-element topic="UI-GET-ADVICE.md"/>
+        <toc-element topic="ALL-CLOSE.md"/>
+        <toc-element topic="AUTHENTICATE.md"/>
+        <toc-element topic="LOGOUT.md"/>
+        <toc-element topic="REPLICA-START.md"/>
+        <toc-element topic="REPLICA-STOP.md"/>
+    </toc-element>
+</instance-profile>
