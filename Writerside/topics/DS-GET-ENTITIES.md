@@ -2,19 +2,19 @@
 
 Get entities collection
 
-<tabs>
-    <tab title="Request">
+<tabs group="call">
+    <tab id="request" title="Request" group-key="req">
         <deflist type="wide">
-            <def title="s"><code>123</code>
-                This is the definition of the first term.
-            </def>
-            <def title="Second Term">
-                This is the definition of the second term.
+            <def title="ENTITY">
+                Entity type
             </def>
         </deflist>
     </tab>
-    <tab title="Response">
-        <code-block lang="xml">
-            <![CDATA[<img src="new_topic_options.png" alt="Alt text" width="450px"/>]]></code-block>
+    <tab id="response" title="Response" group-key="resp">
+        <deflist type="wide">
+            <def title="JSON">
+                Serialized entities list
+            </def>
+        </deflist>
     </tab>
 </tabs>
