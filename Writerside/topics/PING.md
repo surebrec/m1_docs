@@ -11,10 +11,10 @@
         </list>
     </tab>
     <tab id="response" title="Response" group-key="resp">
-        <deflist type="wide">
-            <def title="STATE">
-                RUN
-            </def>
-        </deflist>
-    </tab>
+
+{ type="wide" }
+`STATE`
+: RUN
+
+</tab>
 </tabs>

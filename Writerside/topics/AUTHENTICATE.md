@@ -1,18 +1,27 @@
 # AUTHENTICATE
 
-# Пример с табами
+<tabs group="call">
+<tab id="request" title="Request" group-key="req">
 
-## Linux
-{ tab="Linux" }
+{ type="wide" }
+`login`
+: user login
 
-Текст про установку на Linux…
+`password`
+: user password
 
-## Windows
-{ tab="Windows" }
+</tab>
+<tab id="response" title="Response" group-key="resp">
 
-Текст про установку на Windows…
+{ type="wide" }
+`name`
+: user full name
 
-## macOS
-{ tab="macOS" }
+`uid`
+: user Id
 
-Текст про установку на macOS…
+`auth`
+: TRUE | FALSE
+
+</tab>
+</tabs>
