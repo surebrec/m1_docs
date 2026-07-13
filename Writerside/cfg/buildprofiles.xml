@@ -10,4 +10,10 @@
         </variables>
     </build-profile>
 
+    <footer>
+        <social type="github"  href="https://github.com/surebrec/model_one/tree/master_ml_mvp2">
+            Repository on GitHub
+        </social>
+    </footer>
+
 </buildprofiles>

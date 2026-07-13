@@ -6,9 +6,7 @@
 
 <tabs group="call">
     <tab id="request" title="Request" group-key="req">
-        <list>
-            <li>empty</li>
-        </list>
+        empty
     </tab>
     <tab id="response" title="Response" group-key="resp">
 

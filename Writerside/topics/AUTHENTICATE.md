@@ -21,7 +21,7 @@
 : user Id
 
 `auth`
-: TRUE | FALSE
+: `TRUE` | `FALSE`
 
 </tab>
 </tabs>
