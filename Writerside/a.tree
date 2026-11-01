@@ -36,6 +36,8 @@
         <toc-element topic="ALL-CLOSE.md"/>
         <toc-element topic="AUTHENTICATE.md"/>
         <toc-element topic="LOGOUT.md"/>
+        <toc-element topic="SET_TELEMETRY.md"/>
+        <toc-element topic="SET_RESULT.md"/>
         <toc-element topic="REPLICA-START.md"/>
         <toc-element topic="REPLICA-STOP.md"/>
     </toc-element>
